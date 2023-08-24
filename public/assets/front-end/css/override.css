@@ -1,0 +1,4 @@
+#header_nav.navbar-nav .nav-item:hover {background: #a7165d}
+.navbar-expand-md .navbar-nav .nav-item .dropdown > button:hover, .navbar-expand-md .navbar-nav .nav-item > button:hover, .navbar-expand-md .navbar-nav .nav-item > a:hover {opacity: 1!important;}
+/*
+*/
